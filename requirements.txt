@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langchain-chroma
+chromadb
+pypdf
+streamlit
+langchain-community
+langchain-google-genai
