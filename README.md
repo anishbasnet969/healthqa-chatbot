@@ -45,3 +45,5 @@ streamlit run streamlit_app.py
 
 ### Access the application
 You can now access the application on your computer at `http://localhost:8501`, which is the default URL for Streamlit.
+
+![Chatbot Screenshot](chatbot_ui.png)
